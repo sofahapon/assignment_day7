@@ -3,3 +3,5 @@ files:
     translation: /translations/json/%two_letters_code%/%original_file_name%
   - source: /translations/html/*.html
     translation: /translations/html/%two_letters_code%/%original_file_name%
+  - source: /default/json/*.json
+    translation: /translations/json/%two_letters_code%.%original_file_name%
