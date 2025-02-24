@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Welcome to the app</title>
+</head>
+<body>
+    <h1>Welcome to the app</h1>
+    <p>Click the button below to proceed.</p>
+    <button>Submit</button>
+</body>
+</html>
